@@ -80,10 +80,10 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print "\033[1;96m ============================================================="
 print  """\033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;92mLADLA
+\033[1;96mAuthor  \033[1;93m: \033[1;92mLadla Quddua
 \033[1;96mInstagram \033[1;93m: \033[1;92mLADLA QUDDUS
-\033[1;96mFacebook  \033[1;93m: \033[1;92m LADLA QUDDUS
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/LADLAQUDDUS/WTG
+\033[1;96mFacebook  \033[1;93m: \033[1;92m Ladlaquddus@gmail.com
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/ladla/wtg
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
