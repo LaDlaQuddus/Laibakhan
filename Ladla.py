@@ -49,17 +49,17 @@ def jalan(z):
 ##### LOGO #####
 logo = """ -----------------------------•◈•
 (  __)\\ ____--------------_------------•◈•
-|__(~)    •||•LADLA -QUDDUS -OFFICAL------•◈•
+|__(~)    •||•ABDUL-QUDDOOS -OFFICAL------•◈•
 |__\~~) •||•LAIBA -LOVE ---------------•◈•
 |__(-----\  •◈•--WHITE-TIGER-GANG------•◈•
 |__~~~\ •◈•-----█-------⑦-------█------•◈•
 |__~~~\ •◈•-----█-------⑧-------█------•◈•
 |__~~~\ •◈•-----█-------⑥-------█------•◈•
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;9LADLA QUDDUS
+\033[1;96mAuthor  \033[1;93m: \033[1;9ABDUL QUDDOOS
 \033[1;96mInstagram \033[1;93m: \033[1;ABDUL QUDDOOS
 \033[1;96mFacebook  \033[1;93m: \033[1; LADLA QUDDOOS
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/LADLAQUDDUS/WTG
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/ABDULQUDDOOS/ladla
 \033[1;91m======================================="""
 
 def tik():
@@ -87,8 +87,8 @@ print  """\033[1;91m=======================================
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = Ladla
-CorrectPassword = Ladla
+CorrectUsername = RANA
+CorrectPassword = RANA
 
 loop = 'true'
 while (loop == 'true'):
